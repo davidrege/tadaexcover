@@ -1,0 +1,1709 @@
+T1_particle_particle
+v7
+r0
+t372448241.089006
+cCheck dependencies
+cProcessInfoPlistFile /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app/Contents/Info.plist openFrameworks-Info.plist
+cProcessPCH++ /var/folders/p6/6l2k2_0x0pvdh4xl4yv0160c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-csxnekfjppiqecbmyynmzncvhphk/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/main.o /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/testApp.o /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/testApp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/particle.o /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/particle.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app/Contents/MacOS/1_particle_particleDebug normal i386
+cPhaseScriptExecution "Run Script" /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+cPBXCp bin/1_particle_particleDebug.app/Contents/Frameworks/GLUT.framework ../../../libs/glut/lib/osx/GLUT.framework
+cTouch /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app
+
+N/Developer/usr/include/gcc/darwin/4.2/stdint.h
+c000000004C239434000000000000190C
+t1277400116
+s6412
+
+N/Developer/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004C238F150000000000000C7E
+t1277398805
+s3198
+i"syslimits.h"
+
+N/Developer/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004C238F150000000000003197
+t1277398805
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/Developer/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/syslimits.h
+c000000004C238D9C0000000000000155
+t1277398428
+s341
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c00000000501B6221000000000001A480
+t1343971873
+s107648
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c00000000506BCF3B00000000023F1170
+t1349242683
+s37687664
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000501B6104000000000000BAA0
+t1343971588
+s47776
+
+N/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c00000000503FBFEB000000000000050A
+t1346355179
+s1290
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000506BCF4700000000003B0060
+t1349242695
+s3866720
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c00000000501B610900000000000069F0
+t1343971593
+s27120
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c00000000503FBFF9000000000000058C
+t1346355193
+s1420
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000501B610A0000000000006730
+t1343971594
+s26416
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c00000000501B610C0000000000100720
+t1343971596
+s1050400
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000506BCF3F0000000000654D60
+t1349242687
+s6638944
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c00000000501B6111000000000000D4F0
+t1343971601
+s54512
+
+N/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c00000000503FBFF90000000000000421
+t1346355193
+s1057
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c00000000506BCF72000000000012F810
+t1349242738
+s1243152
+
+N/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c00000000503FC00100000000000064F9
+t1346355201
+s25849
+
+N/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c00000000503FC0010000000000001F41
+t1346355201
+s8001
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c00000000503FC0010000000000025633
+t1346355201
+s153139
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c00000000503FC0010000000000003F80
+t1346355201
+s16256
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000506BCF8E000000000002DAF0
+t1349242766
+s187120
+
+N/System/Library/Frameworks/QuickTime.framework/Headers/QuickTime.h
+c00000000503FC0090000000000000659
+t1346355209
+s1625
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c00000000506BCFA70000000000322E20
+t1349242791
+s3288608
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/../../../libs/glut/lib/osx/GLUT.framework
+c00000000503FC4F300000000000000CC
+t1346356467
+s204
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/../../../libs/glut/lib/osx/GLUT.framework/GLUT
+c00000000503FC4F30000000000092A98
+t1346356467
+s600728
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app
+t1350755441
+s102
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app/Contents/Info.plist
+t1350755425
+s628
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app/Contents/MacOS/1_particle_particleDebug
+t1350755440
+s3740876
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app/Contents/PkgInfo
+t1350755425
+s8
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin/1_particle_particleDebug.app/Contents/Frameworks/GLUT.framework
+t1350755440
+s204
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/1_particle_particleDebug.LinkFileList
+c000000005082E46100000000000001D2
+t1350755425
+s466
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/main.o
+t1350755433
+s128884
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/particle.o
+t1350755434
+s99068
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/testApp.o
+t1350755433
+s178720
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c000000005082E4610000000000000114
+t1350755425
+s276
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/main.cpp
+c000000005053AA3B00000000000001AD
+t1347660347
+s429
+i"ofMain.h"
+i"testApp.h"
+i"ofAppGlutWindow.h"
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/particle.cpp
+c000000005053AA3B0000000000001608
+t1347660347
+s5640
+i"particle.h"
+i"ofMain.h"
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/particle.h
+c000000005053AA3B0000000000000353
+t1347660347
+s851
+i"ofMain.h"
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/testApp.cpp
+c000000005053AA3B0000000000000C74
+t1347660347
+s3188
+i"testApp.h"
+
+N/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/testApp.h
+c000000005053AA3B0000000000000216
+t1347660347
+s534
+i"ofMain.h"
+i"particle.h"
+
+N/Users/mani/openFrameworks/libs/cairo/include/cairo/cairo-deprecated.h
+c00000000503FC4EF00000000000021FA
+t1346356463
+s8698
+
+N/Users/mani/openFrameworks/libs/cairo/include/cairo/cairo-features.h
+c00000000503FC4EF000000000000031D
+t1346356463
+s797
+
+N/Users/mani/openFrameworks/libs/cairo/include/cairo/cairo-pdf.h
+c00000000503FC4EF0000000000000C24
+t1346356463
+s3108
+i"cairo.h"
+
+N/Users/mani/openFrameworks/libs/cairo/include/cairo/cairo-svg.h
+c00000000503FC4F00000000000000ADD
+t1346356464
+s2781
+i"cairo.h"
+
+N/Users/mani/openFrameworks/libs/cairo/include/cairo/cairo-version.h
+c00000000503FC4F00000000000000094
+t1346356464
+s148
+
+N/Users/mani/openFrameworks/libs/cairo/include/cairo/cairo.h
+c00000000503FC4F00000000000016BCE
+t1346356464
+s93134
+i"cairo-version.h"
+i"cairo-features.h"
+i"cairo-deprecated.h"
+
+N/Users/mani/openFrameworks/libs/fmodex/include/fmod.h
+c00000000503FC4F10000000000028E68
+t1346356465
+s167528
+i"fmod_codec.h"
+i"fmod_dsp.h"
+i"fmod_memoryinfo.h"
+
+N/Users/mani/openFrameworks/libs/fmodex/include/fmod_codec.h
+c00000000503FC4F1000000000000334A
+t1346356465
+s13130
+
+N/Users/mani/openFrameworks/libs/fmodex/include/fmod_dsp.h
+c00000000503FC4F1000000000000892F
+t1346356465
+s35119
+
+N/Users/mani/openFrameworks/libs/fmodex/include/fmod_errors.h
+c00000000503FC4F10000000000003408
+t1346356465
+s13320
+i"fmod.h"
+
+N/Users/mani/openFrameworks/libs/fmodex/include/fmod_memoryinfo.h
+c00000000503FC4F10000000000003C95
+t1346356465
+s15509
+
+N/Users/mani/openFrameworks/libs/glew/include/GL/glew.h
+c00000000503FC4F200000000000C1916
+t1346356466
+s792854
+i<stddef.h>
+i<inttypes.h>
+i<stdint.h>
+i<inttypes.h>
+i<OpenGL/glu.h>
+i<GL/glu.h>
+
+N/Users/mani/openFrameworks/libs/openFrameworks/3d/of3dUtils.h
+c00000000503FC4F30000000000000160
+t1346356467
+s352
+i"ofVectorMath.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/3d/ofCamera.h
+c00000000503FC4F300000000000007E7
+t1346356467
+s2023
+i"ofRectangle.h"
+i"ofAppRunner.h"
+i"ofNode.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/3d/ofEasyCam.h
+c00000000503FC4F3000000000000053C
+t1346356467
+s1340
+i"ofCamera.h"
+i"ofEvents.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/3d/ofMesh.h
+c00000000503FC4F30000000000000FAD
+t1346356467
+s4013
+i"ofVec3f.h"
+i"ofVec2f.h"
+i"ofColor.h"
+i"ofUtils.h"
+i"ofConstants.h"
+i"ofGLUtils.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/3d/ofNode.h
+c00000000503FC4F3000000000000143C
+t1346356467
+s5180
+i"ofVectorMath.h"
+i"of3dUtils.h"
+i"ofGraphics.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/app/ofAppBaseWindow.h
+c00000000503FC4F30000000000000590
+t1346356467
+s1424
+i"ofPoint.h"
+i"ofTypes.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/app/ofAppGlutWindow.h
+c00000000503FC4F30000000000000701
+t1346356467
+s1793
+i"ofConstants.h"
+i"ofAppBaseWindow.h"
+i"ofEvents.h"
+i"ofTypes.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/app/ofAppRunner.h
+c00000000503FC4F3000000000000075D
+t1346356467
+s1885
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofTypes.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/app/ofBaseApp.h
+c00000000503FC4F300000000000003A4
+t1346356467
+s932
+i"ofPoint.h"
+i"ofEvents.h"
+i"ofBaseTypes.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/communication/ofArduino.h
+c00000000503FC4F30000000000004239
+t1346356467
+s16953
+i<list>
+i<vector>
+i<string>
+i<iostream>
+i"ofEvents.h"
+i"ofSerial.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/communication/ofSerial.h
+c00000000503FC4F30000000000000DA9
+t1346356467
+s3497
+i"ofConstants.h"
+i"ofTypes.h"
+i<termios.h>
+i<winbase.h>
+i<tchar.h>
+i<iostream>
+i<string.h>
+i<setupapi.h>
+i<regstr.h>
+i<winioctl.h>
+i<initguid.h>
+
+N/Users/mani/openFrameworks/libs/openFrameworks/events/ofEventUtils.h
+c00000000503FC4F30000000000000CB3
+t1346356467
+s3251
+i"ofConstants.h"
+i"Poco/FIFOEvent.h"
+i"Poco/Delegate.h"
+i<stdio.h>
+i<stdlib.h>
+
+N/Users/mani/openFrameworks/libs/openFrameworks/events/ofEvents.h
+c00000000503FC4F30000000000001CB9
+t1346356467
+s7353
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofEventUtils.h"
+i"ofxEventUtils.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/gl/ofFbo.h
+c00000000503FC4F3000000000000104A
+t1346356467
+s4170
+i"ofTexture.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/gl/ofGLRenderer.h
+c00000000503FC4F300000000000012E2
+t1346356467
+s4834
+i"ofBaseTypes.h"
+i"ofPolyline.h"
+i"ofMatrix4x4.h"
+i<stack>
+
+N/Users/mani/openFrameworks/libs/openFrameworks/gl/ofGLUtils.h
+c00000000503FC4F30000000000000D78
+t1346356467
+s3448
+
+N/Users/mani/openFrameworks/libs/openFrameworks/gl/ofLight.h
+c00000000503FC4F30000000000000934
+t1346356467
+s2356
+i"ofNode.h"
+i"ofColor.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/gl/ofMaterial.h
+c00000000503FC4F30000000000000555
+t1346356467
+s1365
+i"ofColor.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/gl/ofShader.h
+c00000000503FC4F30000000000001039
+t1346356467
+s4153
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofTexture.h"
+i"ofMatrix4x4.h"
+i<map>
+
+N/Users/mani/openFrameworks/libs/openFrameworks/gl/ofTexture.h
+c00000000503FC4F300000000000014FB
+t1346356467
+s5371
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofBaseTypes.h"
+i"ofConstants.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/gl/ofVbo.h
+c00000000503FC4F30000000000000A19
+t1346356467
+s2585
+i"ofConstants.h"
+i"ofVec3f.h"
+i"ofColor.h"
+i"ofUtils.h"
+i"ofMesh.h"
+i"ofGLUtils.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/gl/ofVboMesh.h
+c00000000503FC4F30000000000000163
+t1346356467
+s355
+i"ofMesh.h"
+i"ofVbo.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/graphics/ofCairoRenderer.h
+c00000000503FC4F30000000000001461
+t1346356467
+s5217
+i"cairo-features.h"
+i"cairo-pdf.h"
+i"cairo-svg.h"
+i"cairo.h"
+i<deque>
+i<stack>
+i"ofMatrix4x4.h"
+i"ofBaseTypes.h"
+i"ofPath.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/graphics/ofGraphics.h
+c00000000503FC4F30000000000002048
+t1346356467
+s8264
+i"ofConstants.h"
+i"ofColor.h"
+i"ofPoint.h"
+i"ofMatrix4x4.h"
+i"ofRectangle.h"
+i"ofTypes.h"
+i"ofBaseTypes.h"
+i"ofGLRenderer.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/graphics/ofImage.h
+c00000000503FC4F30000000000002116
+t1346356467
+s8470
+i"ofFileUtils.h"
+i"ofTexture.h"
+i"ofPixels.h"
+i"ofBaseTypes.h"
+i"ofConstants.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/graphics/ofPath.h
+c00000000503FC4F30000000000001328
+t1346356467
+s4904
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofColor.h"
+i"ofPolyline.h"
+i"ofBaseTypes.h"
+i"ofMesh.h"
+i"ofTessellator.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/graphics/ofPixels.h
+c00000000503FC4F30000000000001380
+t1346356467
+s4992
+i"ofConstants.h"
+i"ofUtils.h"
+i"ofColor.h"
+i"ofMath.h"
+i<limits>
+
+N/Users/mani/openFrameworks/libs/openFrameworks/graphics/ofPolyline.h
+c00000000503FC4F30000000000001402
+t1346356467
+s5122
+i"ofPoint.h"
+i"ofConstants.h"
+i<deque>
+i"ofRectangle.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/graphics/ofRendererCollection.h
+c00000000503FC4F300000000000029A8
+t1346356467
+s10664
+i"ofBaseTypes.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/graphics/ofTessellator.h
+c00000000503FC4F30000000000000459
+t1346356467
+s1113
+i"ofConstants.h"
+i"ofMesh.h"
+i"ofTypes.h"
+i"ofPolyline.h"
+i"tesselator.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/graphics/ofTrueTypeFont.h
+c00000000503FC4F30000000000000A3C
+t1346356467
+s2620
+i<vector>
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofConstants.h"
+i"ofPath.h"
+i"ofTexture.h"
+i"ofMesh.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/math/ofMath.h
+c00000000503FC4F30000000000000B46
+t1346356467
+s2886
+i"ofPoint.h"
+i"ofConstants.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/math/ofMatrix3x3.h
+c00000000503FC4F30000000000000BB7
+t1346356467
+s2999
+i"ofConstants.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/math/ofMatrix4x4.h
+c00000000503FC4F30000000000006D64
+t1346356467
+s28004
+i"ofVec3f.h"
+i"ofVec4f.h"
+i"ofQuaternion.h"
+i"ofConstants.h"
+i<cmath>
+
+N/Users/mani/openFrameworks/libs/openFrameworks/math/ofQuaternion.h
+c00000000503FC4F300000000000034A0
+t1346356467
+s13472
+i"ofConstants.h"
+i"ofVec3f.h"
+i"ofVec4f.h"
+i<cmath>
+
+N/Users/mani/openFrameworks/libs/openFrameworks/math/ofVec2f.h
+c00000000503FC4F300000000000042C6
+t1346356467
+s17094
+i"ofConstants.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/math/ofVec3f.h
+c00000000503FC4F300000000000063F7
+t1346356467
+s25591
+i"ofVec2f.h"
+i"ofVec4f.h"
+i"ofConstants.h"
+i<cmath>
+i<iostream>
+
+N/Users/mani/openFrameworks/libs/openFrameworks/math/ofVec4f.h
+c00000000503FC4F30000000000002F99
+t1346356467
+s12185
+i"ofConstants.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/math/ofVectorMath.h
+c00000000503FC4F30000000000000099
+t1346356467
+s153
+i"ofVec2f.h"
+i"ofVec3f.h"
+i"ofVec4f.h"
+i"ofMatrix3x3.h"
+i"ofMatrix4x4.h"
+i"ofQuaternion.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/ofMain.h
+c00000000503FC4F30000000000000643
+t1346356467
+s1603
+i"ofConstants.h"
+i"ofFileUtils.h"
+i"ofLog.h"
+i"ofSystemUtils.h"
+i"ofThread.h"
+i"ofURLFileLoader.h"
+i"ofUtils.h"
+i"ofBaseTypes.h"
+i"ofTypes.h"
+i"ofColor.h"
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofMath.h"
+i"ofVectorMath.h"
+i"ofSerial.h"
+i"ofArduino.h"
+i"ofFbo.h"
+i"ofGLRenderer.h"
+i"ofGLUtils.h"
+i"ofLight.h"
+i"ofMaterial.h"
+i"ofShader.h"
+i"ofTexture.h"
+i"ofVbo.h"
+i"ofVboMesh.h"
+i"ofCairoRenderer.h"
+i"ofGraphics.h"
+i"ofImage.h"
+i"ofPath.h"
+i"ofPixels.h"
+i"ofPolyline.h"
+i"ofRendererCollection.h"
+i"ofTessellator.h"
+i"ofTrueTypeFont.h"
+i"ofBaseApp.h"
+i"ofAppRunner.h"
+i"ofSoundStream.h"
+i"ofSoundPlayer.h"
+i"ofVideoGrabber.h"
+i"ofVideoPlayer.h"
+i"ofEvents.h"
+i"of3dUtils.h"
+i"ofCamera.h"
+i"ofEasyCam.h"
+i"ofMesh.h"
+i"ofNode.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+c00000000503FC4F300000000000003EE
+t1346356467
+s1006
+i"ofConstants.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/sound/ofBaseSoundStream.h
+c00000000503FC4F300000000000002D4
+t1346356467
+s724
+i"ofConstants.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+c00000000503FC4F300000000000006F4
+t1346356467
+s1780
+i"ofConstants.h"
+i"ofBaseSoundPlayer.h"
+i"fmod.h"
+i"fmod_errors.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/sound/ofOpenALSoundPlayer.h
+c00000000503FC4F30000000000000EC2
+t1346356467
+s3778
+i"ofConstants.h"
+i"ofBaseSoundPlayer.h"
+i"ofEvents.h"
+i"ofThread.h"
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AL/al.h>
+i<AL/alc.h>
+i"kiss_fft.h"
+i"kiss_fftr.h"
+i<sndfile.h>
+i<mpg123.h>
+
+N/Users/mani/openFrameworks/libs/openFrameworks/sound/ofPASoundStream.h
+c00000000503FC4F3000000000000052D
+t1346356467
+s1325
+i"ofConstants.h"
+i"ofBaseSoundStream.h"
+i"ofTypes.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+c00000000503FC4F3000000000000050F
+t1346356467
+s1295
+i"ofConstants.h"
+i"ofBaseSoundStream.h"
+i"ofTypes.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/sound/ofSoundPlayer.h
+c00000000503FC4F30000000000000718
+t1346356467
+s1816
+i"ofConstants.h"
+i"ofTypes.h"
+i"ofBaseTypes.h"
+i"ofBaseSoundPlayer.h"
+i"ofQuicktimeSoundPlayer.h"
+i"ofFmodSoundPlayer.h"
+i"ofOpenALSoundPlayer.h"
+i"ofxOpenALSoundPlayer.h"
+i"ofxAndroidSoundPlayer.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/sound/ofSoundStream.h
+c00000000503FC4F300000000000006DB
+t1346356467
+s1755
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofBaseApp.h"
+i"ofTypes.h"
+i"ofBaseSoundStream.h"
+i"ofRtAudioSoundStream.h"
+i"ofPASoundStream.h"
+i"ofxAndroidSoundStream.h"
+i"ofxiPhoneSoundStream.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/sound/ofxiPhoneSoundStream.h
+c00000000503FC4F30000000000000428
+t1346356467
+s1064
+i"ofConstants.h"
+i"ofBaseSoundStream.h"
+i"ofTypes.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/types/ofBaseTypes.h
+c00000000503FC4F300000000000030A6
+t1346356467
+s12454
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofConstants.h"
+i"ofColor.h"
+i"ofMesh.h"
+i"ofPixels.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/types/ofColor.h
+c00000000503FC4F30000000000001466
+t1346356467
+s5222
+i<limits>
+i"ofMath.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/types/ofPoint.h
+c00000000503FC4F3000000000000003D
+t1346356467
+s61
+i"ofVec3f.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/types/ofRectangle.h
+c00000000503FC4F30000000000000483
+t1346356467
+s1155
+i"ofPoint.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/types/ofTypes.h
+c00000000503FC4F30000000000000D27
+t1346356467
+s3367
+i"ofConstants.h"
+i"ofColor.h"
+i<memory>
+i<tr1/memory>
+i"Poco/Mutex.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/utils/ofConstants.h
+c00000000503FC4F3000000000000363A
+t1346356467
+s13882
+i<TargetConditionals.h>
+i<windows.h>
+i"GL\glew.h"
+i"GL\wglew.h"
+i"glu.h"
+i<unistd.h>
+i"GL/glew.h"
+i<OpenGL/gl.h>
+i<ApplicationServices/ApplicationServices.h>
+i<unistd.h>
+i<GL/glew.h>
+i<GL/gl.h>
+i<GL/glx.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<typeinfo>
+i<unistd.h>
+i<GLES/gl.h>
+i<GLES/glext.h>
+i"glu.h"
+i"tesselator.h"
+i<cstdlib>
+i<cstdio>
+i<cstdarg>
+i<cmath>
+i<ctime>
+i<cstdlib>
+i<string>
+i<iostream>
+i<vector>
+i<cstring>
+i<sstream>
+i<iomanip>
+i<fstream>
+i<algorithm>
+
+N/Users/mani/openFrameworks/libs/openFrameworks/utils/ofFileUtils.h
+c00000000503FC4F30000000000001E0F
+t1346356467
+s7695
+i"ofConstants.h"
+i"Poco/File.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/utils/ofLog.h
+c00000000503FC4F300000000000015C0
+t1346356467
+s5568
+i"ofConstants.h"
+i"ofFileUtils.h"
+i"ofTypes.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/utils/ofSystemUtils.h
+c00000000503FC4F300000000000001AC
+t1346356467
+s428
+
+N/Users/mani/openFrameworks/libs/openFrameworks/utils/ofThread.h
+c00000000503FC4F30000000000001511
+t1346356467
+s5393
+i"ofConstants.h"
+i"ofTypes.h"
+i"Poco/Thread.h"
+i"Poco/Runnable.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/utils/ofURLFileLoader.h
+c00000000503FC4F300000000000008C4
+t1346356467
+s2244
+i<deque>
+i<queue>
+i"ofThread.h"
+i"ofEvents.h"
+i"ofFileUtils.h"
+i"Poco/Condition.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/utils/ofUtils.h
+c00000000503FC4F3000000000000131D
+t1346356467
+s4893
+i"ofConstants.h"
+i<bitset>
+i"ofLog.h"
+i<shellapi.h>
+
+N/Users/mani/openFrameworks/libs/openFrameworks/video/ofDirectShowGrabber.h
+c00000000503FC4F30000000000000475
+t1346356467
+s1141
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"videoInput.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/video/ofGstUtils.h
+c00000000503FC4F30000000000001008
+t1346356467
+s4104
+i"ofConstants.h"
+i<gst/gst.h>
+i<gst/app/gstappsink.h>
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofTypes.h"
+i"ofEvents.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/video/ofGstVideoGrabber.h
+c00000000503FC4F3000000000000055B
+t1346356467
+s1371
+i"ofGstUtils.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/video/ofGstVideoPlayer.h
+c00000000503FC4F300000000000005FC
+t1346356467
+s1532
+i"ofGstUtils.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/video/ofQtUtils.h
+c00000000503FC4F300000000000006B5
+t1346356467
+s1717
+i"ofConstants.h"
+i<QuickTime/QuickTime.h>
+i<CoreServices/CoreServices.h>
+i<ApplicationServices/ApplicationServices.h>
+i<QTML.h>
+i<FixMath.h>
+i<QuickTimeComponents.h>
+i<TextUtils.h>
+i<MediaHandlers.h>
+
+N/Users/mani/openFrameworks/libs/openFrameworks/video/ofQuickTimeGrabber.h
+c00000000503FC4F30000000000000648
+t1346356467
+s1608
+i"ofConstants.h"
+i"ofQtUtils.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/video/ofQuickTimePlayer.h
+c00000000503FC4F300000000000008B8
+t1346356467
+s2232
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofQtUtils.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/video/ofVideoGrabber.h
+c00000000503FC4F300000000000009F2
+t1346356467
+s2546
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofTypes.h"
+i"ofiPhoneVideoGrabber.h"
+i"ofQuickTimeGrabber.h"
+i"ofDirectShowGrabber.h"
+i"ofGstVideoGrabber.h"
+i"ofxAndroidVideoGrabber.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/video/ofVideoPlayer.h
+c00000000503FC4F30000000000000A8E
+t1346356467
+s2702
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofTypes.h"
+i"ofGstVideoPlayer.h"
+i"ofQuickTimePlayer.h"
+i"ofiPhoneVideoPlayer.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/video/ofiPhoneVideoGrabber.h
+c00000000503FC4F3000000000000032C
+t1346356467
+s812
+i"ofVideoGrabber.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworks/video/ofiPhoneVideoPlayer.h
+c00000000503FC4F30000000000000643
+t1346356467
+s1603
+i"ofPixels.h"
+i"ofBaseTypes.h"
+i"ofTexture.h"
+i"ofVideoPlayer.h"
+
+N/Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
+c0000000050719EAA00000000014E9398
+t1349623466
+s21926808
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/AbstractDelegate.h
+c00000000503FC4F30000000000000AF0
+t1346356467
+s2800
+i"Poco/Foundation.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/AbstractEvent.h
+c00000000503FC4F30000000000002EED
+t1346356467
+s12013
+i"Poco/Foundation.h"
+i"Poco/SingletonHolder.h"
+i"Poco/SharedPtr.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveMethod.h"
+i"Poco/Mutex.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/ActiveMethod.h
+c00000000503FC4F30000000000001C64
+t1346356467
+s7268
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveRunnable.h"
+i"Poco/ActiveStarter.h"
+i"Poco/AutoPtr.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/ActiveResult.h
+c00000000503FC4F30000000000002E66
+t1346356467
+s11878
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/ActiveRunnable.h
+c00000000503FC4F30000000000001785
+t1346356467
+s6021
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/Runnable.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i"Poco/Exception.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/ActiveStarter.h
+c00000000503FC4F30000000000000927
+t1346356467
+s2343
+i"Poco/Foundation.h"
+i"Poco/ThreadPool.h"
+i"Poco/ActiveRunnable.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/AtomicCounter.h
+c00000000503FC4F30000000000002138
+t1346356467
+s8504
+i"Poco/Foundation.h"
+i"Poco/UnWindows.h"
+i<libkern/OSAtomic.h>
+i"Poco/Mutex.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/AutoPtr.h
+c00000000503FC4F30000000000001E0C
+t1346356467
+s7692
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Bugcheck.h
+c00000000503FC4F300000000000014A9
+t1346356467
+s5289
+i"Poco/Foundation.h"
+i<string>
+i<iostream>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Condition.h
+c00000000503FC4F30000000000001236
+t1346356467
+s4662
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/ScopedUnlock.h"
+i"Poco/Event.h"
+i"Poco/Exception.h"
+i<deque>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Config.h
+c00000000503FC4F30000000000000EA4
+t1346356467
+s3748
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/DefaultStrategy.h
+c00000000503FC4F30000000000000D64
+t1346356467
+s3428
+i"Poco/NotificationStrategy.h"
+i"Poco/SharedPtr.h"
+i<vector>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Delegate.h
+c00000000503FC4F30000000000001B3D
+t1346356467
+s6973
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/FunctionDelegate.h"
+i"Poco/Expire.h"
+i"Poco/Mutex.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Event.h
+c00000000503FC4F30000000000000E58
+t1346356467
+s3672
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/Event_WIN32.h"
+i"Poco/Event_VX.h"
+i"Poco/Event_POSIX.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Event_POSIX.h
+c00000000503FC4F30000000000000A91
+t1346356467
+s2705
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Event_VX.h
+c00000000503FC4F3000000000000085E
+t1346356467
+s2142
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<semLib.h>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Event_WIN32.h
+c00000000503FC4F3000000000000093F
+t1346356467
+s2367
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Exception.h
+c00000000503FC4F300000000000028B1
+t1346356467
+s10417
+i"Poco/Foundation.h"
+i<stdexcept>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Expire.h
+c00000000503FC4F30000000000000D44
+t1346356467
+s3396
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/Timestamp.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/FIFOEvent.h
+c00000000503FC4F300000000000009FD
+t1346356467
+s2557
+i"Poco/AbstractEvent.h"
+i"Poco/FIFOStrategy.h"
+i"Poco/AbstractDelegate.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/FIFOStrategy.h
+c00000000503FC4F30000000000000962
+t1346356467
+s2402
+i"Poco/DefaultStrategy.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/File.h
+c00000000503FC4F30000000000001FCC
+t1346356467
+s8140
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+i<vector>
+i"File_WINCE.h"
+i"Poco/File_WIN32U.h"
+i"Poco/File_WIN32.h"
+i"Poco/File_VX.h"
+i"Poco/File_UNIX.h"
+i"Poco/File_VMS.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/File_UNIX.h
+c00000000503FC4F30000000000000BC1
+t1346356467
+s3009
+i"Poco/Foundation.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/File_VMS.h
+c00000000503FC4F30000000000000BBC
+t1346356467
+s3004
+i"Poco/Foundation.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/File_VX.h
+c00000000503FC4F30000000000000BBA
+t1346356467
+s3002
+i"Poco/Foundation.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/File_WIN32.h
+c00000000503FC4F30000000000000C0C
+t1346356467
+s3084
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/File_WIN32U.h
+c00000000503FC4F30000000000000C2B
+t1346356467
+s3115
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/File_WINCE.h
+c00000000503FC4F30000000000000C2C
+t1346356467
+s3116
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Foundation.h
+c00000000503FC4F300000000000010F9
+t1346356467
+s4345
+i"Poco/Config.h"
+i"Poco/Platform.h"
+i"Poco/Platform_WIN32.h"
+i"Poco/Platform_VMS.h"
+i"Poco/Platform_VX.h"
+i"Poco/Platform_POSIX.h"
+i"Poco/Bugcheck.h"
+i"Poco/Types.h"
+i<string>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/FunctionDelegate.h
+c00000000503FC4F300000000000017B0
+t1346356467
+s6064
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/Mutex.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Mutex.h
+c00000000503FC4F30000000000001DD6
+t1346356467
+s7638
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/ScopedLock.h"
+i"Poco/Mutex_WINCE.h"
+i"Poco/Mutex_WIN32.h"
+i"Poco/Mutex_VX.h"
+i"Poco/Mutex_POSIX.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Mutex_POSIX.h
+c00000000503FC4F30000000000000AC2
+t1346356467
+s2754
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Mutex_VX.h
+c00000000503FC4F30000000000000A20
+t1346356467
+s2592
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<semLib.h>
+i<errno.h>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Mutex_WIN32.h
+c00000000503FC4F30000000000000A04
+t1346356467
+s2564
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Mutex_WINCE.h
+c00000000503FC4F30000000000000870
+t1346356467
+s2160
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/NotificationStrategy.h
+c00000000503FC4F30000000000000B62
+t1346356467
+s2914
+i"Poco/Foundation.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Platform.h
+c00000000503FC4F30000000000001CBD
+t1346356467
+s7357
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Platform_POSIX.h
+c00000000503FC4F30000000000000843
+t1346356467
+s2115
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Platform_VMS.h
+c00000000503FC4F30000000000000BAA
+t1346356467
+s2986
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Platform_VX.h
+c00000000503FC4F300000000000007B3
+t1346356467
+s1971
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Platform_WIN32.h
+c00000000503FC4F30000000000000DCF
+t1346356467
+s3535
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/RefCountedObject.h
+c00000000503FC4F30000000000000BB1
+t1346356467
+s2993
+i"Poco/Foundation.h"
+i"Poco/AtomicCounter.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Runnable.h
+c00000000503FC4F30000000000000861
+t1346356467
+s2145
+i"Poco/Foundation.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/ScopedLock.h
+c00000000503FC4F30000000000000CC5
+t1346356467
+s3269
+i"Poco/Foundation.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/ScopedUnlock.h
+c00000000503FC4F3000000000000092B
+t1346356467
+s2347
+i"Poco/Foundation.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/SharedPtr.h
+c00000000503FC4F30000000000002278
+t1346356467
+s8824
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/AtomicCounter.h"
+i<algorithm>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/SignalHandler.h
+c00000000503FC4F30000000000001205
+t1346356467
+s4613
+i"Poco/Foundation.h"
+i<vector>
+i<setjmp.h>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/SingletonHolder.h
+c00000000503FC4F30000000000000A67
+t1346356467
+s2663
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Thread.h
+c00000000503FC4F30000000000001E48
+t1346356467
+s7752
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Thread_WINCE.h"
+i"Poco/Thread_WIN32.h"
+i"Poco/Thread_VX.h"
+i"Poco/Thread_POSIX.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/ThreadPool.h
+c00000000503FC4F30000000000001C8A
+t1346356467
+s7306
+i"Poco/Foundation.h"
+i"Poco/Thread.h"
+i"Poco/Mutex.h"
+i<vector>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Thread_POSIX.h
+c00000000503FC4F300000000000014C0
+t1346356467
+s5312
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/SignalHandler.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i<pthread.h>
+i<limits.h>
+i<sys/select.h>
+i<errno.h>
+i<cstring>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Thread_VX.h
+c00000000503FC4F30000000000001125
+t1346356467
+s4389
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/SignalHandler.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i<taskLib.h>
+i<taskVarLib.h>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Thread_WIN32.h
+c00000000503FC4F30000000000001301
+t1346356467
+s4865
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Thread_WINCE.h
+c00000000503FC4F30000000000001276
+t1346356467
+s4726
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Timestamp.h
+c00000000503FC4F30000000000001A41
+t1346356467
+s6721
+i"Poco/Foundation.h"
+i<ctime>
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/Types.h
+c00000000503FC4F30000000000001ABE
+t1346356467
+s6846
+i"Poco/Foundation.h"
+
+N/Users/mani/openFrameworks/libs/poco/include/Poco/UnWindows.h
+c00000000503FC4F30000000000000FC3
+t1346356467
+s4035
+i<windows.h>
+
+N/Users/mani/openFrameworks/libs/tess2/include/tesselator.h
+c00000000503FC4FB0000000000001C63
+t1346356475
+s7267
+i<TargetConditionals.h>
+
+N/usr/include/TargetConditionals.h
+c00000000503FBFF900000000000031E9
+t1346355193
+s12777
+
+N/usr/include/errno.h
+c00000000503FBFFA00000000000003EB
+t1346355194
+s1003
+
+N/usr/include/inttypes.h
+c00000000503FBFFA000000000000231A
+t1346355194
+s8986
+
+N/usr/include/libkern/OSAtomic.h
+c00000000503FBFFA000000000000764E
+t1346355194
+s30286
+
+N/usr/include/pthread.h
+c00000000503FBFFA0000000000003CF0
+t1346355194
+s15600
+
+N/usr/include/setjmp.h
+c00000000503FBFFA0000000000000A2F
+t1346355194
+s2607
+
+N/usr/include/stdio.h
+c00000000503FBFFA0000000000004523
+t1346355194
+s17699
+
+N/usr/include/stdlib.h
+c00000000503FBFFA0000000000003089
+t1346355194
+s12425
+
+N/usr/include/string.h
+c00000000503FBFFA0000000000001A3A
+t1346355194
+s6714
+
+N/usr/include/sys/_types.h
+c00000000503FC0240000000000001845
+t1346355236
+s6213
+
+N/usr/include/sys/select.h
+c00000000503FC02500000000000016A2
+t1346355237
+s5794
+
+N/usr/include/termios.h
+c00000000503FBFFA00000000000004D4
+t1346355194
+s1236
+
+N/usr/include/unistd.h
+c00000000503FBFFA0000000000006762
+t1346355194
+s26466
+
+N/var/folders/p6/6l2k2_0x0pvdh4xl4yv0160c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-csxnekfjppiqecbmyynmzncvhphk/Carbon.h.gch
+t1350755430
+s55164720
+
+NopenFrameworks-Info.plist
+c000000005053AA3B0000000000000277
+t1347660347
+s631
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies372448225#372448225#0(0"0(0#1#0"4320133120#0"0#
+
+CCompileC build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/main.o /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s372448230.693791
+e372448233.282716
+r1
+xCompileC
+xbuild/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/main.o
+x/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@82"Compile /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/main.cpp372448230#372448233#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#74"/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/main.cpp4320133120#2187"    cd /Users/mani/openFrameworks/algo2012/week6/1_particle_particle    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/1_particle_particleDebug.hmap -F/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin -F/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/../../../libs/glut/lib/osx -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -Isrc -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/DerivedSources/i386 -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/DerivedSources -D__MACOSX_CORE__ -lpthread -mtune=native -include /var/folders/p6/6l2k2_0x0pvdh4xl4yv0160c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-csxnekfjppiqecbmyynmzncvhphk/Carbon.h -c /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/main.cpp -o /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/main.o0#
+
+CCompileC build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/particle.o /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/particle.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s372448233.282969
+e372448234.869522
+r1
+xCompileC
+xbuild/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/particle.o
+x/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/particle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@86"Compile /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/particle.cpp372448233#372448234#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#78"/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/particle.cpp4320133120#2195"    cd /Users/mani/openFrameworks/algo2012/week6/1_particle_particle    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/1_particle_particleDebug.hmap -F/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin -F/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/../../../libs/glut/lib/osx -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -Isrc -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/DerivedSources/i386 -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/DerivedSources -D__MACOSX_CORE__ -lpthread -mtune=native -include /var/folders/p6/6l2k2_0x0pvdh4xl4yv0160c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-csxnekfjppiqecbmyynmzncvhphk/Carbon.h -c /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/particle.cpp -o /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/particle.o0#
+
+CCompileC build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/testApp.o /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/testApp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s372448230.695639
+e372448233.333585
+r1
+xCompileC
+xbuild/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/testApp.o
+x/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/testApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@85"Compile /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/testApp.cpp372448230#372448233#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#77"/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/testApp.cpp4320133120#2193"    cd /Users/mani/openFrameworks/algo2012/week6/1_particle_particle    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/1_particle_particleDebug.hmap -F/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin -F/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/../../../libs/glut/lib/osx -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -Isrc -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/DerivedSources/i386 -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/DerivedSources -D__MACOSX_CORE__ -lpthread -mtune=native -include /var/folders/p6/6l2k2_0x0pvdh4xl4yv0160c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-csxnekfjppiqecbmyynmzncvhphk/Carbon.h -c /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/src/testApp.cpp -o /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/testApp.o0#
+
+CLd /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app/Contents/MacOS/1_particle_particleDebug normal i386
+s372448234.869635
+e372448240.080915
+r1
+xLd
+x/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app/Contents/MacOS/1_particle_particleDebug
+xnormal
+xi386
+old: warning: can't add line info to anonymous symbol cstring=Tried to call lock a second time before unlock was called.  from /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/main.o
+old: warning: __gnu_cxx::new_allocator<std::_Rb_tree_node<std::pair<unsigned int const, int> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)
+old: warning: std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_erase(std::_Rb_tree_node<std::pair<unsigned int const, int> >*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)
+old: warning: std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_create_node(std::pair<unsigned int const, int> const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)
+old: warning: std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_insert(std::_Rb_tree_node_base*, std::_Rb_tree_node_base*, std::pair<unsigned int const, int> const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)
+old: warning: std::map<unsigned int, int, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::operator[](unsigned int const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)
+old: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_insert_aux(__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(PluginEXR.o-i386) and (default) in /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/testApp.o
+old: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(char const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(PluginEXR.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofGLRenderer.o)
+old: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfHeader.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfHeader.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfHeader.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_insert_aux(__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfRgbaFile.o-i386) and (default) in /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/testApp.o
+old: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_Vector_base(unsigned long, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::vector(std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+lSLF07#2@140"Link /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app/Contents/MacOS/1_particle_particleDebug372448234#372448240#0(12718"ld: warning: can't add line info to anonymous symbol cstring=Tried to call lock a second time before unlock was called.  from /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/main.old: warning: __gnu_cxx::new_allocator<std::_Rb_tree_node<std::pair<unsigned int const, int> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)ld: warning: std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_erase(std::_Rb_tree_node<std::pair<unsigned int const, int> >*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)ld: warning: std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_create_node(std::pair<unsigned int const, int> const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)ld: warning: std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_insert(std::_Rb_tree_node_base*, std::_Rb_tree_node_base*, std::pair<unsigned int const, int> const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)ld: warning: std::map<unsigned int, int, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::operator[](unsigned int const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)ld: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_insert_aux(__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(PluginEXR.o-i386) and (default) in /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/testApp.old: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(char const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(PluginEXR.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofGLRenderer.o)ld: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfHeader.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfHeader.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfHeader.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_insert_aux(__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfRgbaFile.o-i386) and (default) in /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/testApp.old: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_Vector_base(unsigned long, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::vector(std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)25(22@265"Can't add line info to anonymous symbol cstring=Tried to call lock a second time before unlock was called.  from /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/main.o372448240#0#279#0(6@0"372448240#0#0#0#0#0"0(22@369"__gnu_cxx::new_allocator<std::_Rb_tree_node<std::pair<unsigned int const, int> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)372448240#279#383#0(6@0"372448240#0#0#0#0#0"0(22@513"Std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_erase(std::_Rb_tree_node<std::pair<unsigned int const, int> >*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)372448240#662#527#0(6@0"372448240#0#0#0#0#0"0(22@504"Std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_create_node(std::pair<unsigned int const, int> const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)372448240#1189#518#0(6@0"372448240#0#0#0#0#0"0(22@551"Std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_insert(std::_Rb_tree_node_base*, std::_Rb_tree_node_base*, std::pair<unsigned int const, int> const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)372448240#1707#565#0(6@0"372448240#0#0#0#0#0"0(22@388"Std::map<unsigned int, int, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::operator[](unsigned int const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(Exif.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)372448240#2272#402#0(6@0"372448240#0#0#0#0#0"0(22@390"__gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#2674#404#0(6@0"372448240#0#0#0#0#0"0(22@451"Std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#3078#465#0(6@0"372448240#0#0#0#0#0"0(22@439"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#3543#453#0(6@0"372448240#0#0#0#0#0"0(22@801"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_insert_aux(__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#3996#815#0(6@0"372448240#0#0#0#0#0"0(22@518"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(IPTC.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#4811#532#0(6@0"372448240#0#0#0#0#0"0(22@542"Std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(PluginEXR.o-i386) and (default) in /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/testApp.o372448240#5343#556#0(6@0"372448240#0#0#0#0#0"0(22@487"Std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(char const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(PluginEXR.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofGLRenderer.o)372448240#5899#501#0(6@0"372448240#0#0#0#0#0"0(22@395"__gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfHeader.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#6400#409#0(6@0"372448240#0#0#0#0#0"0(22@456"Std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfHeader.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#6809#470#0(6@0"372448240#0#0#0#0#0"0(22@444"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfHeader.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#7279#458#0(6@0"372448240#0#0#0#0#0"0(22@410"__gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#7737#424#0(6@0"372448240#0#0#0#0#0"0(22@821"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_insert_aux(__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#8161#835#0(6@0"372448240#0#0#0#0#0"0(22@538"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#8996#552#0(6@0"372448240#0#0#0#0#0"0(22@544"Std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfRgbaFile.o-i386) and (default) in /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/testApp.o372448240#9548#558#0(6@0"372448240#0#0#0#0#0"0(22@407"__gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#10106#421#0(6@0"372448240#0#0#0#0#0"0(22@468"Std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#10527#482#0(6@0"372448240#0#0#0#0#0"0(22@576"Std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_Vector_base(unsigned long, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#11009#590#0(6@0"372448240#0#0#0#0#0"0(22@456"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#11599#470#0(6@0"372448240#0#0#0#0#0"0(22@635"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::vector(std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&)has different visibility (hidden) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ImfStandardAttributes.o-i386) and (default) in /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)372448240#12069#649#0(6@0"372448240#0#0#0#0#0"0(0#0#0"4320133120#1716"    cd /Users/mani/openFrameworks/algo2012/week6/1_particle_particle    /Developer/usr/bin/g++-4.2 -arch i386 -L/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin -F/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin -F/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/../../../libs/glut/lib/osx -filelist /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/1_particle_particleDebug.LinkFileList -dead_strip ../../../libs/poco/lib/osx/PocoCrypto.a ../../../libs/poco/lib/osx/PocoData.a ../../../libs/poco/lib/osx/PocoDataODBC.a ../../../libs/poco/lib/osx/PocoDataSQLite.a ../../../libs/poco/lib/osx/PocoFoundation.a ../../../libs/poco/lib/osx/PocoNet.a ../../../libs/poco/lib/osx/PocoNetSSL.a ../../../libs/poco/lib/osx/PocoUtil.a ../../../libs/poco/lib/osx/PocoXML.a ../../../libs/poco/lib/osx/PocoZip.a ../../../libs/tess2/lib/osx/tess2.a ../../../libs/glew/lib/osx/glew.a ../../../libs/cairo/lib/osx/cairo-script-interpreter.a ../../../libs/cairo/lib/osx/cairo.a ../../../libs/cairo/lib/osx/pixman-1.a ../../../libs/fmodex/lib/osx/libfmodex.dylib ../../../libs/rtAudio/lib/osx/rtAudio.a -framework GLUT /Users/mani/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework OpenGL -framework QuickTime -framework AppKit -framework Cocoa -framework IOKit -o /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app/Contents/MacOS/1_particle_particleDebug0#
+
+CPBXCp bin/1_particle_particleDebug.app/Contents/Frameworks/GLUT.framework ../../../libs/glut/lib/osx/GLUT.framework
+s372448240.480577
+e372448241.042263
+r1
+xPBXCp
+xbin/1_particle_particleDebug.app/Contents/Frameworks/GLUT.framework
+x../../../libs/glut/lib/osx/GLUT.framework
+lSLF07#2@46"Copy ../../../libs/glut/lib/osx/GLUT.framework372448240#372448241#0(0"0(0#0#103"/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/../../../libs/glut/lib/osx/GLUT.framework4320133120#450"    cd /Users/mani/openFrameworks/algo2012/week6/1_particle_particle    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/../../../libs/glut/lib/osx/GLUT.framework /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin/1_particle_particleDebug.app/Contents/Frameworks0#
+
+CPhaseScriptExecution "Run Script" /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+s372448240.081057
+e372448240.480489
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+lSLF07#2@36"Run custom shell script 'Run Script'372448240#372448240#0(0"0(0#0#0"4320133120#23067"    cd /Users/mani/openFrameworks/algo2012/week6/1_particle_particle    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER mani    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386 ppc"    setenv ARCHS_STANDARD_32_BIT "i386 ppc"    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build    setenv BUILD_ROOT /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin/    setenv CACHE_ROOT /var/folders/p6/6l2k2_0x0pvdh4xl4yv0160c0000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/p6/6l2k2_0x0pvdh4xl4yv0160c0000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/p6/6l2k2_0x0pvdh4xl4yv0160c0000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin/    setenv CONFIGURATION_TEMP_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug    setenv CONTENTS_FOLDER_PATH 1_particle_particleDebug.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH 1_particle_particleDebug.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/1_particle_particle.dst    setenv DWARF_DSYM_FILE_NAME 1_particle_particleDebug.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin/    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH 1_particle_particleDebug.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH 1_particle_particleDebug.app/Contents/MacOS    setenv EXECUTABLE_NAME 1_particle_particleDebug    setenv EXECUTABLE_PATH 1_particle_particleDebug.app/Contents/MacOS/1_particle_particleDebug    setenv FILE_LIST /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH 1_particle_particleDebug.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin/\"  \"/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 "\"/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME 1_particle_particleDebug.app    setenv GCC3_VERSION 3.3    setenv GCC_AUTO_VECTORIZATION YES    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE YES    setenv GCC_ENABLE_SSE3_EXTENSIONS YES    setenv GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS YES    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_MODEL_TUNING NONE    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS NO    setenv GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO NO    setenv GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL NO    setenv GCC_WARN_UNINITIALIZED_AUTOS NO    setenv GCC_WARN_UNUSED_VALUE NO    setenv GCC_WARN_UNUSED_VARIABLE NO    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_CAIRO "\"../../../libs/cairo/include/cairo\""    setenv HEADER_FMODEX "\"../../../libs/fmodex/include\""    setenv HEADER_FREEIMAGE "\"../../../libs/FreeImage/include\""    setenv HEADER_FREETYPE "\"../../../libs/freetype/include\""    setenv HEADER_FREETYPE2 "\"../../../libs/freetype/include/freetype2\""    setenv HEADER_GLEW "\"../../../libs/glew/include\""    setenv HEADER_OF "\"../../../libs/openFrameworks/**\""    setenv HEADER_POCO "\"../../../libs/poco/include\""    setenv HEADER_RTAUDIO "\"../../../libs/rtAudio/include\""    setenv HEADER_SEARCH_PATHS "\"/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//include\" \"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtAudio/include\" src"    setenv HEADER_TESS2 "\"../../../libs/tess2/include\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE openFrameworks-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH 1_particle_particleDebug.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH 1_particle_particleDebug.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/1_particle_particle.dst/Users/mani/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER mani    setenv INSTALL_PATH /Users/mani/Applications    setenv INSTALL_ROOT /tmp/1_particle_particle.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH 1_particle_particleDebug.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/1_particle_particleDebug-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin/\"                                                              "    setenv LIB_CAIRO1 "\"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\""    setenv LIB_CAIRO2 "\"../../../libs/cairo/lib/osx/cairo.a\""    setenv LIB_CAIRO3 "\"../../../libs/cairo/lib/osx/pixman-1.a\""    setenv LIB_FMODEX "\"../../../libs/fmodex/lib/osx/libfmodex.dylib\""    setenv LIB_FREEIMAGE "\"../../../libs/FreeImage/lib/osx/freeimage.a\""    setenv LIB_FREETYPE "\"../../../libs/freetype/lib/osx/freetype.a\""    setenv LIB_GLEW "\"../../../libs/glew/lib/osx/glew.a\""    setenv LIB_GLUT "\"../../../libs/glut/lib/osx/GLUT.framework/Versions/A/GLUT\""    setenv LIB_POCO_1 "\"../../../libs/poco/lib/osx/PocoCrypto.a\""    setenv LIB_POCO_10 "\"../../../libs/poco/lib/osx/PocoZip.a\""    setenv LIB_POCO_2 "\"../../../libs/poco/lib/osx/PocoData.a\""    setenv LIB_POCO_3 "\"../../../libs/poco/lib/osx/PocoDataODBC.a\""    setenv LIB_POCO_4 "\"../../../libs/poco/lib/osx/PocoDataSQLite.a\""    setenv LIB_POCO_5 "\"../../../libs/poco/lib/osx/PocoFoundation.a\""    setenv LIB_POCO_6 "\"../../../libs/poco/lib/osx/PocoNet.a\""    setenv LIB_POCO_7 "\"../../../libs/poco/lib/osx/PocoNetSSL.a\""    setenv LIB_POCO_8 "\"../../../libs/poco/lib/osx/PocoUtil.a\""    setenv LIB_POCO_9 "\"../../../libs/poco/lib/osx/PocoXML.a\""    setenv LIB_RTAUDIO "\"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv LIB_TESS "\"../../../libs/tess2/lib/osx/tess2.a\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal/i386/1_particle_particleDebug.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH 1_particle_particleDebug.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_VERSION_ACTUAL 1082    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0802    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Objects-normal    setenv OBJROOT /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build    setenv OF_CORE_HEADERS "\"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtAudio/include\""    setenv OF_CORE_LIBS "\"../../../libs/poco/lib/osx/PocoCrypto.a\" \"../../../libs/poco/lib/osx/PocoData.a\" \"../../../libs/poco/lib/osx/PocoDataODBC.a\" \"../../../libs/poco/lib/osx/PocoDataSQLite.a\" \"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoNetSSL.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoZip.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv OF_PATH ../../..    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CPLUSPLUSFLAGS "-D__MACOSX_CORE__ -lpthread -mtune=native"    setenv OTHER_LDFLAGS "\"../../../libs/poco/lib/osx/PocoCrypto.a\" \"../../../libs/poco/lib/osx/PocoData.a\" \"../../../libs/poco/lib/osx/PocoDataODBC.a\" \"../../../libs/poco/lib/osx/PocoDataSQLite.a\" \"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoNetSSL.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoZip.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH 1_particle_particleDebug.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PHONEGAPLIB /Users/mani/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/PkgInfo    setenv PKGINFO_PATH 1_particle_particleDebug.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_NAME macosx    setenv PLATFORM_PRODUCT_BUILD_VERSION 10M2423    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH 1_particle_particleDebug.app/Contents/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH 1_particle_particleDebug.app/Contents/PrivateHeaders    setenv PRODUCT_NAME 1_particle_particleDebug    setenv PRODUCT_SETTINGS_PATH /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/openFrameworks-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT 1_particle_particle    setenv PROJECT_DERIVED_FILE_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/DerivedSources    setenv PROJECT_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle    setenv PROJECT_FILE_PATH /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/1_particle_particle.xcodeproj    setenv PROJECT_NAME 1_particle_particle    setenv PROJECT_TEMP_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build    setenv PUBLIC_HEADERS_FOLDER_PATH 1_particle_particleDebug.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin/\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH 1_particle_particleDebug.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT     setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH 1_particle_particleDebug.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/p6/6l2k2_0x0pvdh4xl4yv0160c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH 1_particle_particleDebug.app/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/mani/openFrameworks/algo2012/week6/1_particle_particle    setenv SRCROOT /Users/mani/openFrameworks/algo2012/week6/1_particle_particle    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/SymbolRepositories    setenv SYMROOT /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME 1_particle_particle    setenv TARGET_BUILD_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin/    setenv TARGET_NAME 1_particle_particle    setenv TARGET_TEMP_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build    setenv TEMP_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build    setenv TEMP_FILES_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build    setenv TEMP_FILE_DIR /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build    setenv TEMP_ROOT /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH 1_particle_particleDebug.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER mani    setenv USER_APPS_DIR /Users/mani/Applications    setenv USER_LIBRARY_DIR /Users/mani/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH 1_particle_particleDebug.app/Contents/version.plist    setenv VERSION_INFO_BUILDER mani    setenv VERSION_INFO_FILE 1_particle_particleDebug_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:1_particle_particleDebug  PROJECT:1_particle_particle-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME 1_particle_particleDebug.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh0#
+
+CProcessInfoPlistFile /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app/Contents/Info.plist openFrameworks-Info.plist
+s372448225.380894
+e372448225.460430
+r1
+xProcessInfoPlistFile
+x/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app/Contents/Info.plist
+xopenFrameworks-Info.plist
+lSLF07#2@33"Process openFrameworks-Info.plist372448225#372448225#0(0"0(0#0#87"/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/openFrameworks-Info.plist4320133120#406"    cd /Users/mani/openFrameworks/algo2012/week6/1_particle_particle    builtin-infoPlistUtility openFrameworks-Info.plist -genpkginfo /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app/Contents/Info.plist0#
+
+CProcessPCH++ /var/folders/p6/6l2k2_0x0pvdh4xl4yv0160c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-csxnekfjppiqecbmyynmzncvhphk/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+s372448225.460707
+e372448230.693668
+r1
+xProcessPCH++
+x/var/folders/p6/6l2k2_0x0pvdh4xl4yv0160c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-csxnekfjppiqecbmyynmzncvhphk/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h372448225#372448230#0(92"i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done0(0#0#60"/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h4320133120#2022"    cd /Users/mani/openFrameworks/algo2012/week6/1_particle_particle    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/1_particle_particleDebug.hmap -F/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin -F/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/../../../libs/glut/lib/osx -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -Isrc -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/DerivedSources/i386 -I/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/build/1_particle_particle.build/Debug/1_particle_particle.build/DerivedSources -D__MACOSX_CORE__ -lpthread -mtune=native -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/p6/6l2k2_0x0pvdh4xl4yv0160c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-csxnekfjppiqecbmyynmzncvhphk/Carbon.h.gch0#
+
+CTouch /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app
+s372448241.042347
+e372448241.088689
+r1
+xTouch
+x/Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app
+lSLF07#2@101"Touch /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app372448241#372448241#0(0"0(0#0#0"4320133120#187"    cd /Users/mani/openFrameworks/algo2012/week6/1_particle_particle    /usr/bin/touch -c /Users/mani/openFrameworks/algo2012/week6/1_particle_particle/bin//1_particle_particleDebug.app0#
+
