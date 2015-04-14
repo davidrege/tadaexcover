@@ -1,4 +1,4 @@
 tadaexcover
 ===========
 
-Tadaex generative cover design
+Generative cover design app for Tehran Digital Arts Festival
